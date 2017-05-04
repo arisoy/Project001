@@ -1,0 +1,34 @@
+<div class = "col-md-8 col-md-offset-2">
+	<h1 class = "new-msg-header">Konut Tespit</h1>
+
+	<%= simple_form_for @table1 do |f| %>
+	  <%= f.input :binaNo %>
+	  <%= f.input :fotoNo %>
+	  <%= f.input :ada %>
+	  <%= f.input :parsel %>
+	  <%= f.input :kat %>
+	  <%= f.input :kullanimTuruZeminKat %>
+	  <%= f.input :kullanimTuru1 %>
+	  <%= f.input :kullanimTuru2 %>
+	  <%= f.input :kullanimTuru3 %>
+	  <%= f.input :yapimTekMalYigma %>
+	  <%= f.input :yapimTekMalZeminTas %>
+	  <%= f.input :yapimTekMalBetonarme %>
+	  <%= f.input :yapiFizikiDurumu %>
+	  <%= f.input :yapiGeleneksel %>
+	  <%= f.input :yapiDiger %>
+	  <%= f.input :mimariDonem %>
+	  <%= f.input :ekYapiMustemilat %>
+	  <%= f.input :avluBahce %>
+	  <%= f.input :catiKirmaM  %>
+	  <%= f.input :catiKirmaA %>
+	  <%= f.input :catiKirmaS %>
+	  <%= f.input :catiBesikM %>
+	  <%= f.input :catiBesikA %>
+	  <%= f.input :catiBesikS %>
+	  <%= f.input :teras %>
+	  <%= f.input :notlar %>
+	  <%= f.button :submit, label:"Email At" %>
+	<% end %>
+
+</div>
