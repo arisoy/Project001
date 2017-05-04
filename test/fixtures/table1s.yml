@@ -1,0 +1,57 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  binaNo: MyString
+  fotoNo: MyString
+  ada: MyString
+  parsel: MyString
+  kat: MyString
+  kullanimTuruZeminKat: MyString
+  kullanimTuru1: MyString
+  kullanimTuru2: MyString
+  kullanimTuru3: MyString
+  yapimTekMalYigma: MyString
+  yapimTekMalZeminTas: MyString
+  yapimTekMalBetonarme: MyString
+  yapiFizikiDurumu: MyString
+  yapiGeleneksel: MyString
+  yapiDiger: MyString
+  mimariDonem: MyString
+  ekYapiMustemilat: MyString
+  avluBahce: MyString
+  catiKirmaM: MyString
+  catiKirmaA: MyString
+  catiKirmaS: MyString
+  catiBesikM: MyString
+  catiBesikA: MyString
+  catiBesikS: MyString
+  teras: MyString
+  notlar: MyText
+
+two:
+  binaNo: MyString
+  fotoNo: MyString
+  ada: MyString
+  parsel: MyString
+  kat: MyString
+  kullanimTuruZeminKat: MyString
+  kullanimTuru1: MyString
+  kullanimTuru2: MyString
+  kullanimTuru3: MyString
+  yapimTekMalYigma: MyString
+  yapimTekMalZeminTas: MyString
+  yapimTekMalBetonarme: MyString
+  yapiFizikiDurumu: MyString
+  yapiGeleneksel: MyString
+  yapiDiger: MyString
+  mimariDonem: MyString
+  ekYapiMustemilat: MyString
+  avluBahce: MyString
+  catiKirmaM: MyString
+  catiKirmaA: MyString
+  catiKirmaS: MyString
+  catiBesikM: MyString
+  catiBesikA: MyString
+  catiBesikS: MyString
+  teras: MyString
+  notlar: MyText
